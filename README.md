@@ -64,3 +64,5 @@ The classification threshold prioritizes the elimination of false negatives for 
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
+
+web link = https://sparkling-gnome-129718.netlify.app/
