@@ -66,3 +66,23 @@ The classification threshold prioritizes the elimination of false negatives for 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 web link = https://sparkling-gnome-129718.netlify.app/
+
+
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/1e7a1c66-9e65-4a26-ba53-b9d7bad90de9" />
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/512a300f-c9cc-4f11-b6f0-d2afce9cda4c" />
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/cc3f182f-ddb2-4df6-8328-8dd1430117bb" />
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/6a3516ef-f68a-4542-b7d2-388f688d07d8" />
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/68dc119d-9a3d-4ae8-b7ff-1775f0a18df4" />
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/71e97523-d20f-486a-9420-7a260067e1e1" />
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/700a0fa3-dfac-4233-a7d5-f4fdec12e88d" />
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/06649bd1-b1d5-44de-9a0d-1c47c52c25df" />
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/a467fe5d-5009-4213-9bcd-1cda06d114ca" />
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/d9928cbc-0bc2-4f6d-a3d3-cbcafb23a017" />
+
+
+
+
+
+
+
+
