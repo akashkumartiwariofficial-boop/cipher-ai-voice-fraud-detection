@@ -1,0 +1,6 @@
+{
+  "name": "CIPHER - AI Voice Cloning Fraud Detection",
+  "description": "Multi-signal AI voice cloning and deepfake fraud detection platform with biometric analysis, real-time threat monitoring, and banking security safeguards.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
